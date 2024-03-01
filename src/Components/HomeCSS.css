@@ -1,0 +1,1266 @@
+.IntroSection{
+    position: relative;
+    overflow: hidden;
+    background-image: url('../Images/Page1.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Login{
+    position: absolute;
+    top: 2%;
+    right: 2%;
+}
+.Login button{
+    text-decoration: none;
+    -webkit-text-fill-color: TRANSPARENT;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #CEB7FF;
+    font-family: "Death-star";
+    font-weight: 500;
+    font-size: 26px;
+    background: none;
+    border: none;
+}
+.Login button:hover{
+    -webkit-text-stroke-color: white;
+}
+.Animation1{
+    position: absolute;
+    top: 48%;
+    width: 100%;
+}
+.Man1{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: -20px;
+}
+.Man1 img{
+    z-index: 1;
+}
+.Earth1{
+    display: flex;
+    justify-content: center;
+}
+.Earth1 img{
+    animation: rotation 150s infinite linear;
+}
+.IntroSection .IntroText{
+    width: 100%;
+}
+.IntroSection .IntroMain{
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.IntroSection .IntroText h1{
+    -webkit-text-fill-color: TRANSPARENT;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #CEB7FF;
+    font-family: "Death-star";
+    font-weight: 500;
+    font-size: 50px;
+    display: flex;
+    margin: 0px;
+    justify-content: center;
+}
+.IntroSection .Intro1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.rect1-1{
+    width: 538px;
+    height: 16px;
+    border: 1px solid #CEB7FF;
+    box-shadow: 0px 0px 5px #ceb7ff;
+    margin: 5px 4px 5px 0;
+}
+.rect1-2{
+    width: 538px;
+    height: 16px;
+    border: 1px solid #CEB7FF;
+    box-shadow: 0px 0px 5px #ceb7ff;
+    margin: 5px 0px 5px 4px;
+}
+.IntroSection .Intro1 h3{
+    margin: 4px 0;
+    font-family: "Death-star";
+    color: #CEB7FF;
+}
+.IntroSection .Intro2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.IntroSection .Intro2 h3{
+    margin: 4px 0;
+    font-family: "Death-star";
+    color: #CEB7FF;
+}
+.IntroSection .IntroText1{
+    width: 100%;
+}
+.IntroSection .IntroText1 h1{
+    -webkit-text-fill-color: TRANSPARENT;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #CEB7FF;
+    font-family: "Death-star";
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+.IntroSection .Click1-1{
+    position: absolute;
+    bottom: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.IntroSection .Click1-2{
+    position: absolute;
+    bottom: 4%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.IntroSection .Click1-2 p{
+    justify-content: center;
+    position: absolute;
+    display: flex;
+    width: 100%;
+    top: 12%;
+    color: #CEB7FF;
+    font-size: 24px;
+    color: #CEB7FF;
+    font-weight: 900;
+}
+.IntroSection .scroll{
+    position: absolute;
+    right: 2%;
+    bottom: 2%;
+}
+
+.S2{
+    position: relative;
+    overflow: hidden;
+    background-image: url('../Images/Page2.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Animation2{
+    position: absolute;
+    top: 48%;
+    width: 100%;
+}
+.Man2{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: -20px;
+}
+.Man2 img{
+    z-index: 1;
+}
+.Earth2{
+    display: flex;
+    justify-content: center;
+}
+.Earth2 img{
+    animation: rotation 150s infinite linear;
+}
+.S2-1{
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.S2 .S2-1 h1{
+    display: flex;
+    justify-content: center;
+    -webkit-text-fill-color: TRANSPARENT;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #CEB7FF;
+    font-family: "Death-star";
+    font-weight: 500;
+    font-size: 50px;
+    margin: 0;
+}
+.S2 .S2-1 .rect2{
+    width:234px;
+    height: 16px;
+    border: 1px solid #CEB7FF;
+    box-shadow: 0px 0px 5px #ceb7ff;
+    margin: 5px 0;
+}
+.S2 .S2-4{
+    width: 100%;
+}
+.S2 .S2-4 h2{
+    display: flex;
+    justify-content: center;
+    -webkit-text-fill-color: #efebf9;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #b493fa;
+    margin: 30px 0;
+    font-size: 50px;
+}
+.S2 .S2-5{
+    position: absolute;
+    right: 2%;
+    bottom: 2%;
+}
+.S2 .Click2-1{
+    position: absolute;
+    bottom: 10%;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.S2 .Click2-2{
+    position: absolute;
+    bottom: 4%;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.S2 .Click2-2 .Skills{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 54%;
+    bottom: 30%;
+    justify-content: center;
+}
+.S2 .Click2-2 .SkillsText {
+    position: relative;
+    margin: 6px;
+}
+.S2 .Click2-2 .SkillsText h3{
+    position: absolute;
+    top: 26%;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    color: #CEB7FF;
+    font-size: 22px;
+}
+.S3{
+    position: relative;
+    overflow: hidden;
+    background-image: url('../Images/Page3.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Animation3{
+    position: absolute;
+    top: 48%;
+    width: 100%;
+}
+.Man3{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: -20px;
+}
+.Man3 img{
+    z-index: 1;
+}
+.Earth3{
+    display: flex;
+    justify-content: center;
+}
+.Earth3 img{
+    animation: rotation 150s infinite linear;
+}
+.S3 .S3-1{
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.S3 .S3-1 h1{
+    display: flex;
+    justify-content: center;
+    -webkit-text-fill-color: TRANSPARENT;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #CEB7FF;
+    font-family: "Death-star";
+    font-weight: 500;
+    font-size: 50px;
+    margin: 0;
+}
+.rect3{
+    width: 322px;
+    height: 16px;
+    border: 1px solid #CEB7FF;
+    box-shadow: 0px 0px 5px #ceb7ff;
+    margin: 5px 0;
+}
+.S3 .S3-4{
+    position: absolute;
+    right: 2%;
+    bottom: 2%;
+}
+.S3 .S3-Left{
+    position: absolute;
+    top: 45%;
+    left: 10%;
+}
+.S3 .S3-Right{
+    position: absolute;
+    top: 45%;
+    right: 10%;
+}
+.S3 .S3-P .Click3-1{
+    position: absolute;
+    bottom: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.S3 .S3-P .Click3-2{
+    position: absolute;
+    bottom: 4%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.S3 .S3-P .Click3-2-1{
+    position: absolute;
+    bottom: 4%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.S3 .Click3-3{
+    width: 100%;
+}
+.S3 .Click3-3 h2{
+    display: flex;
+    justify-content: center;
+    -webkit-text-fill-color: #efebf9;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #b493fa;
+    font-size: 50px;
+}
+.S3 .S3-P .Click3-2 a{
+    justify-content: center;
+    position: absolute;
+    display: flex;
+    top: 18%;
+    color: #CEB7FF;
+    font-size: 24px;
+    -webkit-text-fill-color: TRANSPARENT;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #CEB7FF;
+    font-weight: 900;
+}
+.S3 .S3-P .Click3-2-1 a{
+    justify-content: center;
+    position: absolute;
+    display: flex;
+    top: 12%;
+    color: #CEB7FF;
+    font-size: 24px;
+    -webkit-text-fill-color: TRANSPARENT;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #CEB7FF;
+    font-weight: 900;
+}
+.S3 .S3-P .Click3-2 p{
+    justify-content: center;
+    position: absolute;
+    display: flex;
+    width: 100%;
+    top: 42%;
+    color: #CEB7FF;
+    font-size: 24px;
+    font-weight: 900;
+    margin: 0;
+}
+.S3 .S3-P .Click3-2-1 p{
+    justify-content: center;
+    position: absolute;
+    display: flex;
+    width: 100%;
+    top: 28%;
+    color: #CEB7FF;
+    font-size: 24px;
+    font-weight: 900;
+    margin: 0;
+}
+
+.S4{
+    position: relative;
+    overflow: hidden;
+    background-image: url('../Images/Page4.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Animation4{
+    position: absolute;
+    top: 48%;
+    width: 100%;
+}
+.Man4{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: -20px;
+}
+.Man4 img{
+    z-index: 1;
+}
+.Earth4{
+    display: flex;
+    justify-content: center;
+}
+.Earth4 img{
+    animation: rotation 150s infinite linear;
+}
+.S4-1{
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.S4-1 h1{
+    display: flex;
+    justify-content: center;
+    -webkit-text-fill-color: TRANSPARENT;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #CEB7FF;
+    font-family: "Death-star";
+    font-weight: 500;
+    font-size: 50px;
+    margin: 0;
+}
+.rect4{
+    width: 526px;
+    height: 16px;
+    border: 1px solid #CEB7FF;
+    box-shadow: 0px 0px 5px #ceb7ff;
+    margin: 5px 0;
+}
+.S4-4{
+    position: absolute;
+    right: 2%;
+    bottom: 2%;
+}
+.S4 .S4-Left{
+    position: absolute;
+    top: 45%;
+    left: 10%;
+}
+.S4 .S4-Right{
+    position: absolute;
+    top: 45%;
+    right: 10%;
+}
+.S4 .S4-P .Click4-1{
+    position: absolute;
+    bottom: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.S4 .S4-P .Click4-2{
+    position: absolute;
+    bottom: 4%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.S4 .Click4-3{
+    width: 100%;
+}
+.S4 .Click4-3 a{
+    text-decoration: none;
+    position: relative;
+    transition: all 0.2s ease-in-out;
+}
+.S4 .Click4-3 a:hover {
+    text-shadow: 0px 0px 6px #CEB7FF;
+}
+.S4 .Click4-3 h2:hover{
+    position: relative;
+    bottom: -2px;
+    left: 2px;
+}
+.S4 .Click4-3 h2{
+    display: flex;
+    justify-content: center;
+    -webkit-text-fill-color: #efebf9;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #b493fa;
+    font-size: 50px;
+}
+.S4 .Click4-3 img{
+    padding-right: 10px;
+}
+.S4 .S4-P .Click4-2 p{
+    justify-content: center;
+    position: absolute;
+    display: flex;
+    width: 100%;
+    top: 20%;
+    color: #CEB7FF;
+    font-size: 24px;
+    font-weight: 900;
+    margin: 0;
+}
+.S5{
+    position: relative;
+    background-image: url('../Images/Page5.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.S5-1{
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.S5-1 h1{
+    display: flex;
+    justify-content: center;
+    -webkit-text-fill-color: TRANSPARENT;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #CEB7FF;
+    font-family: "Death-star";
+    font-weight: 500;
+    font-size: 50px;
+    margin: 0;
+}
+.rect5{
+    width: 292px;
+    height: 16px;
+    border: 1px solid #CEB7FF;
+    box-shadow: 0px 0px 5px #ceb7ff;
+    margin: 5px 0;
+}
+.S5-4{
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.S5-4 input{
+    border: 0;
+    background: #CEB7FF;
+    filter: opacity(0.4);
+    padding: 8px 50px 8px 10px;
+    font-size: 22px;
+    border-radius: 6px;
+}
+.S5-4 textarea{
+    border: 0;
+    background: #CEB7FF;
+    filter: opacity(0.4);
+    font-size: 22px;
+    border-radius: 6px;
+}
+.S5-4 .S5-F{
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+}
+.S5-4 .S5-FActive{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.S5-4 .S5-FActive .FormArea{
+    display: flex;
+    flex-direction: column;
+}
+.S5-4 .S5-FActive .FormArea span{
+    font-size: 10px;
+    color: red;
+}
+.S5-4 .Captcha{
+    display: flex;
+    justify-content: center;
+}
+.S5-4 .S5-Button{
+    padding: 16px;
+    display: flex;
+    justify-content: center;
+}
+.S5-4 .S5-Button button{
+    padding: 8px;
+    font-size: 18px;
+    background: #CEB7FF;
+    filter: opacity(0.6);
+    border-radius: 10px;
+}
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+}
+.DashboardSection{
+    position: relative;
+    background-image: url('../Images/Page5.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.DashboardSection .Home{
+    position: absolute;
+    top: 2%;
+    right: 2%;
+}
+.Home a{
+    text-decoration: none;
+    -webkit-text-fill-color: TRANSPARENT;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #CEB7FF;
+    font-family: "Death-star";
+    font-weight: 500;
+    font-size: 26px;
+}
+.Home a:hover{
+    -webkit-text-stroke-color: white;
+}
+.Home button{
+    text-decoration: none;
+    -webkit-text-fill-color: TRANSPARENT;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #CEB7FF;
+    font-family: "Death-star";
+    font-weight: 500;
+    font-size: 26px;
+    background: none;
+    border: none;
+    padding-left: 16px;
+}
+.Home button:hover{
+    -webkit-text-stroke-color: white;
+}
+.DS-1{
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.DS-1 .rectD{
+    width:  302px;
+    height: 16px;
+    border: 1px solid #CEB7FF;
+    box-shadow: 0px 0px 5px #ceb7ff;
+    margin: 5px 0;
+}
+.DS-1 .DS1-1 h1{
+    display: flex;
+    justify-content: center;
+    -webkit-text-fill-color: TRANSPARENT;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #CEB7FF;
+    font-family: "Death-star";
+    font-weight: 500;
+    font-size: 50px;
+    margin: 0;
+}
+.InfoTable{
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    overflow-y: scroll;
+    height: 50%;
+}
+.InfoTable table{
+    width: 80%;
+}
+.InfoTable thead{
+    background: #CEB7FF;
+    filter: opacity(0.8);
+}
+.InfoTable tbody{
+    background: #CEB7FF;
+    filter: opacity(0.6);
+}
+.InfoTable th{
+    padding: 10px;
+}
+.InfoTable td{
+    padding: 10px;
+}
+.LoginPage{
+    position: relative;
+    background-image: url('../Images/Page3.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.HomeL{
+    position: absolute;
+    top: 2%;
+    right: 2%;
+}
+.HomeL a{
+    text-decoration: none;
+    -webkit-text-fill-color: TRANSPARENT;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #CEB7FF;
+    font-family: "Death-star";
+    font-weight: 500;
+    font-size: 26px;
+}
+.HomeL a:hover{
+    -webkit-text-stroke-color: white;
+}
+.LS1{
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.LS1 .rectLS{
+    width: 146px;
+    height: 16px;
+    border: 1px solid #CEB7FF;
+    box-shadow: 0px 0px 5px #ceb7ff;
+    margin: 5px 0;
+}
+.LS1 h1{
+    display: flex;
+    justify-content: center;
+    -webkit-text-fill-color: TRANSPARENT;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #CEB7FF;
+    font-family: "Death-star";
+    font-weight: 500;
+    font-size: 50px;
+    margin: 0;
+}
+.LS2{
+    position: absolute;
+    top: 32%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.LS-M{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.LS2-1{
+    background: #CEB7FF;
+    filter: opacity(0.7);
+    padding: 30px 50px;
+}
+.LS2-1 h1{
+    font-size: 40px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+.LS2-1 span{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+}
+.LS2-1 form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+.LS2-1 input{
+    border: 0;
+    padding: 8px 10px 8px 10px;
+    width: 100%;
+    font-size: 22px;
+    border-radius: 6px;
+    margin: 10px;
+}
+.LS2-1 button{
+    background: black;
+    color: white;
+    font-size: 24px;
+    padding: 4px 24px;
+    border-radius: 8px;
+    margin: 12px 0px 0px 0px;
+}
+.LS2-1 button:hover{
+    background: white;
+    color: black;
+    font-weight: 600;
+}
+.Footer{
+    background: #00132c;
+    display: flex;
+    flex-direction: column;
+}
+.FS1{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.FS1 img{
+    padding: 0 10px;
+}
+.FS1 h1{
+    margin: 0;
+    color: white;
+    font-size: 20px;
+    padding: 10px
+}
+.FS1 span{
+    color: white;
+    font-size: 20px;
+    padding: 10px
+}
+.FS1 h3{
+    color: white;
+    margin: 0;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: 400;
+}
+.FS2{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.FS2 span{
+    color: white;
+    border-top: 1px solid whitesmoke;
+    padding: 20px 20%;
+    font-size: 18px;
+}
+
+
+@media screen and (min-width:1600px) {
+    .S2 .Click2-2 .Skills {
+        width: 44%;
+    }
+    .S5-4 textarea {
+        padding-right: 10px;
+    }
+    .Man1 {
+        margin-bottom: -34px;
+    }
+    .Man1 img{
+        width: 120px;
+    }
+    .Man2 img{
+        width: 120px;
+    }
+    .Man3 img{
+        width: 120px;
+    }
+    .Man4 img{
+        width: 120px;
+    }
+}
+
+@media screen and (max-width:1024px) and (min-width:790px) {
+    .S2 .Click2-2 .Skills {
+        width: 86%;
+    }
+    .S2 .Click2-2 .SkillsText {
+        margin: 4px;
+    }
+    .S2 .Click2-2 .SkillsText img{
+        width: 130px;
+    }
+    .S3 .S3-P .Click3-2-1 {
+        bottom: 0%;
+    }
+    .S3 .Click3-3 h2 {
+        font-size: 40px;
+    }
+    .S5-1 h1 {
+        font-size: 40px;
+    }
+    .rect5 {
+        width: 234px;
+    }
+    .S5-4 .S5-F {
+        padding: 6px;
+    }
+    .S5-4 .S5-FActive {
+        padding: 2px;
+    }
+    .S5-4 textarea {
+        padding-right: 10px;
+        font-size: 20px;
+    }
+    .S5-4 input {
+        font-size: 20px;
+    }
+    .S5-4 .S5-Button {
+        padding: 10px;
+    }
+    .LS2-1 {
+        padding: 20px 50px;
+    }
+    .LS2-1 h1 {
+        font-size: 36px;
+    }
+    .LS2-1 span {
+        font-size: 18px;
+    }
+    .LS2-1 input {
+        font-size: 20px;
+    }
+    .LS2-1 button {
+        font-size: 20px;
+    }
+    
+}
+
+@media screen and (max-width:786px) {
+    .Login button{
+        font-size: 12px;
+    }
+    .IntroSection{
+        background-image: url('../Images/MPage1.png');
+    }    
+    .IntroSection .IntroText h1 {
+        font-size: 18px;
+    }
+    .rect1-1 {
+        width: 154px;
+        height: 8px;
+        margin: 4px 4px 4px 0;
+    }
+    .rect1-2 {
+        width: 154px;
+        height: 8px;
+        margin: 4px 0px 4px 4px;
+    }
+    .IntroSection .Intro1 h3 {
+        font-size: 10px;
+    }
+    .IntroSection .Intro2 h3 {
+        font-size: 10px;
+    }
+    .IntroSection .IntroText1 h1 {
+        font-size: 20px;
+    }
+    .IntroSection .Click1-1 {
+        bottom: 14%;
+    }
+    .IntroSection .Click1-2 {
+        bottom: 14%;
+    }
+    .IntroSection .Click1-2 img{
+        width: 300px;
+        height: 120px;
+    }
+    .IntroSection .Click1-2 p {
+        font-size: 14px;
+    }
+    .IntroSection .scroll img{
+        width: 30px;
+        height: 40px;
+    }
+    .S2{
+        background-image: url('../Images/MPage2.png');
+    }
+    .S2 .S2-1 h1 {
+        font-size: 22px;
+    }
+    .S2 .S2-1 .rect2 {
+        width: 104px;
+        height: 8px;
+    }
+    .S2 .S2-4 h2 {
+        font-size: 18px;
+    }
+    .S2 .Click2-1{
+        bottom: 14%;
+    }
+    .S2 .Click2-2 {
+        bottom: 6%;
+    }
+    .S2 .Click2-2 .Skills {
+        width: 100%;
+    }
+    .S2 .Click2-2 .SkillsText {
+        margin: 2px;
+    }
+    .S2 .Click2-2 .SkillsText img{
+        width: 100px;
+    }
+    .S2 .Click2-2 .SkillsText h3 {
+        font-size: 18px;
+    }
+    .S2 .S2-5 img{
+        width: 30px;
+        height: 40px;
+    }
+    .S3{
+        background-image: url('../Images/MPage3.png');
+    }
+    .S3 .S3-1 h1 {
+        font-size: 22px;
+    }
+    .rect3 {
+        width: 144px;
+        height: 8px;
+    }
+    .S3 .S3-P .Click3-1{
+        bottom: 14%;
+    }
+    .S3 .Click3-3 h2 {
+        font-size: 16px;
+    }
+    .S3 .S3-Left img{
+        width: 30px;
+    }
+    .S3 .S3-Right img{
+        width: 30px;
+    }
+    .S3 .S3-P .Click3-2 {
+        bottom: 14%;
+    }
+    .S3 .S3-P .Click3-2 img{
+        width: 310px;
+        height: 120px;
+    }
+    .S3 .S3-P .Click3-2 a {
+        font-size: 14px;
+    }
+    .S3 .S3-P .Click3-2 p {
+        font-size: 11px;
+    }
+    .S3 .S3-P .Click3-2-1 {
+        bottom: 14%;
+    }
+    .S3 .S3-P .Click3-2-1 img{
+        width: 318px;
+        height: 120px;
+    }
+    .S3 .S3-P .Click3-2-1 a {
+        font-size: 14px;
+    }
+    .S3 .S3-P .Click3-2-1 p {
+        font-size: 10px;
+        top: 34%;
+    }
+    .S3 .S3-4 img{
+        width: 30px;
+        height: 40px;
+    }
+    .S4{
+        background-image: url('../Images/MPage4.png');
+    }
+    .S4-1 h1 {
+        font-size: 22px;
+    }
+    .rect4 {
+        width: 232px;
+        height: 8px;
+    }
+    .S4 .S4-P .Click4-1 {
+        bottom: 14%;
+    }
+    .S4 .Click4-3 h2 {
+        font-size: 22px;
+    }
+    .S4 .Click4-3 img {
+        width: 30px;
+    }
+    .S4 .S4-Left img{
+        width: 30px;
+    }
+    .S4 .S4-Right img{
+       width: 30px;
+    }
+    .S4 .S4-P .Click4-2 {
+        bottom: 14%;
+    }
+    .S4 .S4-P .Click4-2 img{
+        width: 300px;
+        height: 120px;
+    }
+    .S4 .S4-P .Click4-2 p {
+        top: 28%;
+        font-size: 12px;
+    }
+    .S4-4 img{
+        width: 30px;
+        height: 40px;
+    }
+    .S5{
+        background-image: url('../Images/MPage5.png');
+    }
+    .S5-1 h1 {
+        font-size: 22px;
+    }
+    .rect5 {
+        width: 130px;
+        height: 8px;
+    }
+    .S5-4 .S5-F {
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+    }
+    .S5-4 .S5-FActive{
+        padding: 8px;
+        display: flex;
+        justify-content: center;
+    }
+    .S5-4 input {
+        font-size: 12px;
+        padding: 8px 30px 8px 10px;
+    }
+    .S5-4 textarea{
+        font-size: 12px;
+    }
+    .S5-4 .S5-Button button {
+        font-size: 12px;
+    }
+    .S5-4 .S5-FActive .FormArea span {
+        font-size: 8px;
+    }
+    .DashboardSection{
+        background-image: url('../Images/MPage5.png');
+    }
+    .Home a{
+        font-size: 12px;
+    }
+    .Home button{
+        font-size: 12px;
+    }
+    .DS-1 .rectD{
+        width: 134px;
+        height: 8px;
+    }
+    .DS-1 .DS1-1 h1{
+        font-size: 22px;
+    }
+    .InfoTable th{
+        padding: 4px;
+        font-size: 12px;
+    }
+    .InfoTable td{
+        padding: 4px;
+        font-size: 10px;
+    }
+    .LoginPage{
+        background-image: url('../Images/MPage3.png');
+    }
+    .HomeL a {
+        font-size: 12px;
+    }
+    .LS1 h1 {
+        font-size: 22px;
+    }
+    .LS1 .rectLS {
+        width: 66px;
+        height: 8px;
+    }
+    .LS2-1 {
+        padding: 26px 40px;
+    }
+    .LS2-1 form {
+        padding-top: 14px;
+    }
+    .LS2-1 h1 {
+        font-size: 22px;
+    }
+    .LS2-1 span {
+        font-size: 14px;
+        padding-bottom: 14px;
+    }
+    .LS2-1 input {
+        font-size: 12px;
+        margin: 10px 0;
+    }
+    .LS2-1 button {
+        font-size: 14px;
+        padding: 4px 20px;
+        margin: 4px 0px 0px 0px;
+    }
+    .FS1 h1 {
+        font-size: 12px;
+    }
+    .FS1 span {
+        font-size: 12px;
+    }
+    .FS1 h3 {
+        font-size: 12px;
+    }
+    .FS2 span {
+        padding: 12px 8%;
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width:786px) and (min-width:380px) {
+    .S2 .Click2-2 {
+        bottom: 14%;
+    }
+    .S2 .Click2-2 .Skills {
+        width: 94%;
+    }
+}
+
+@media screen and (max-width:786px) and (min-width:490px) {
+    .Animation1 {
+        top: 54%;
+    }
+    .Animation2 {
+        top: 54%;
+    }
+    .Animation3 {
+        top: 54%;
+    }
+    .Animation4 {
+        top: 55%;
+    }
+}
